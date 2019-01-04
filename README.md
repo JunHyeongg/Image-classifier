@@ -1,1 +1,1 @@
-# image-classifier project
+# image-classifier-project
